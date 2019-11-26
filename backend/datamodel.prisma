@@ -1,5 +1,19 @@
+This file is not being referenced -- see datamodel.graphql
+
 type User {
   id: ID! @id
   name: String!
   email: String!
+}
+
+type Item {
+  id: ID! @unique
+  title: String!
+  description: String!
+  image; String
+  largeImage: String
+  price: Int!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+  # user: User
 }

@@ -1,5 +1,6 @@
 endpoint: ${env:PRISMA_ENDPOINT}
-datamodel: datamodel.prisma
+# datamodel: datamodel.prisma
+datamodel: datamodel.graphql
 # secret: ${env:SECRET}
 hooks: 
   post-deploy: 
