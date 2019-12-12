@@ -459,7 +459,7 @@ type PageInfo {
   """When paginating forwards, are there more items?"""
   hasNextPage: Boolean!
 
-  """When paginating backwards, are there more items?"""
+"""When paginating backwards, are there more items?"""
   hasPreviousPage: Boolean!
 
   """When paginating backwards, the cursor to continue."""
