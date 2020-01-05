@@ -20665,7 +20665,7 @@ var Sell = function Sell(props) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 5:
 /*!******************************!*\
   !*** multi ./pages/reset.js ***!
   \******************************/
@@ -20690,5 +20690,5 @@ module.exports = dll_18682c416555df0bf0b9;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]));;
+},[[5,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=reset.js.map
